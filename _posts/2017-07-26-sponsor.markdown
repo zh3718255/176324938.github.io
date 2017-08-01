@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "鸣谢赞助商"
+subtitle:   "赞助商"
+date:       2017-07-26
+author:     "帝国学联"
+header-img: "img/home-bg.jpg"
+tags:
+    - 赞助商
+---
+
+![map](/img/thanks.jpg)

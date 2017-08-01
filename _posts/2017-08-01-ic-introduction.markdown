@@ -6,7 +6,7 @@ date:       2017-08-01
 author:     "帝国学联"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - a
+    - G5
 ---
 
 # 学校历史及概况
@@ -31,6 +31,8 @@ South Kensington坐落于繁华商业区Knightsbridge 和 High Street Kensington
 
 离South Kensington校区最近的地铁站为South Kensington和Gloucester Road，位于伦敦地铁的Piccadilly line，District line和Circle line上。另外还有多条公交线可以到达主校区附近，如9,10,70,C1,14和74路等。这些伦敦发达的公共交通网络能将同学们送往伦敦各处。
 
+![map](/img/campus-map.jpg)
+
 # 学习生活
 
 帝国理工在学习方面为在校学生提供最全面的帮助。学校内有除周五晚外24小时开放的图书馆，更为每一位学生安排personal tutor, year tutor, senior tutor等，在各方面协助学生的学习生活。
@@ -48,12 +50,12 @@ http://www.imperial.ac.uk/study/campus-life/accommodation/
 
 校园内设有JCR，SCR，H-bar及Library Café等为学生提供简单优惠的饮食。
 
-JCR：Junior Common Room，仅工作日开放，对所有学生开放，内有帝国理工闻名的包子和煎饼铺！
+- JCR：Junior Common Room，仅工作日开放，对所有学生开放，内有帝国理工闻名的包子和煎饼铺！
 
-SCR：Senior Common Room, 仅工作日开放，专为研究生及以上学历学生提供的餐厅，不过本科生可以在工作日早晨10：30前享用SCR的早餐。
+- SCR：Senior Common Room, 仅工作日开放，专为研究生及以上学历学生提供的餐厅，不过本科生可以在工作日早晨10：30前享用SCR的早餐。
 
-H-bar：位于Sherfield Building楼下的餐厅，为学生老师提供优惠的套餐。
+- H-bar：位于Sherfield Building楼下的餐厅，为学生老师提供优惠的套餐。
 
-Library Café: 位于Central Library楼下，每日开放。在学生的课余时间提供简单的饮食。
+- Library Café: 位于Central Library楼下，每日开放。在学生的课余时间提供简单的饮食。
 
-QTR: Queen’s Tower Room，仅工作日的中午对学生开放，主要提供各国的特色食物，菜单一周轮换一次。
+- QTR: Queen’s Tower Room，仅工作日的中午对学生开放，主要提供各国的特色食物，菜单一周轮换一次。

@@ -1,8 +1,8 @@
 # Site settings
-title: 新生见面会手册2017
+title: 2017新生指南
 SEOTitle: 帝国学联的博客 | ICCSSA Blog
 header-img: img/home-bg.jpg
-email: logan.zhang@aliyun.com
+email: cssa@imperial.ac.uk
 description: ""
 keyword: ""
 url: "http://iccssa.cc"              # your host, for absolute URL
@@ -68,8 +68,8 @@ ga_domain: iccssa.cc
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "关注我们的微信号：CSSAIC"
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
